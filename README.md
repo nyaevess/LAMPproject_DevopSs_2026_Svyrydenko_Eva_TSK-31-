@@ -79,10 +79,11 @@ sudo nano /etc/apache2/sites-available/drupal.conf
 <img width="1896" height="997" alt="image" src="https://github.com/user-attachments/assets/2280e17a-0856-45fa-b600-1bf9b15df8f8" />
 
 
-<img width="1902" height="995" alt="image" src="https://github.com/user-attachments/assets/8a74afa0-e868-44bd-9fd0-29b004152631" />
 
 <img width="1896" height="1009" alt="image" src="https://github.com/user-attachments/assets/063f0132-0c06-4c9b-94bc-54ab381bf5d8" />
 
 <img width="1897" height="1034" alt="image" src="https://github.com/user-attachments/assets/1a374d0e-2461-4cbf-81ca-ee5237ef8961" />
 
 <img width="1894" height="1018" alt="image" src="https://github.com/user-attachments/assets/fc8f1b74-9372-46de-9449-68f5878fa0f6" />
+
+<img width="1890" height="962" alt="image" src="https://github.com/user-attachments/assets/d97989a2-7fd5-4ad4-906c-2d57841d63e9" />
