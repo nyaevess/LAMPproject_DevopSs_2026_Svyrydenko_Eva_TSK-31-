@@ -27,7 +27,7 @@ sudo nano /etc/apache2/sites-available/drupal.conf
 не знаходить drupal, відкриємо налаштування сайту
 <img width="1129" height="902" alt="image" src="https://github.com/user-attachments/assets/31c79065-350b-4857-9341-58b72a37bb0f" />
 знаходимо помилку DocumentRoot /var/www/html, повинно бути DocumentRoot /var/www/html/drupal
-<img width="1129" height="898" alt="image" src="https://github.com/user-attachments/assets/6291b3b1-f8a3-4069-94b6-ce41ff82d791" />
+
 
 
 
